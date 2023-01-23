@@ -1,3 +1,3 @@
-rgname = "BRrg1"
+rgname = "BRrg"
 locname = "East US"
-pipname = "BRpip1"
+pipname = "BRpip"
